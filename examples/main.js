@@ -30,7 +30,7 @@ import { TitleComponent, TooltipComponent } from 'echarts/components'
 import { CanvasRenderer } from 'echarts/renderers'
 // 当前组件的引入
 import Charts from 'bin-charts-next'
-import Editor from 'bin-ace-editor'
+import Editor from 'bin-editor-next'
 
 import 'brace/ext/emmet'
 import 'brace/ext/language_tools'

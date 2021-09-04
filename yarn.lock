@@ -2033,17 +2033,17 @@ big.js@^5.2.2:
   resolved "https://registry.npmjs.org/big.js/-/big.js-5.2.2.tgz#65f0af382f578bcdc742bd9c281e9cb2d7768328"
   integrity sha512-vyL2OymJxmarO8gxMr0mhChsO9QGwhynfuu4+MHTAW6czfq9humCB7rKpUjDd9YUiDPU4mzpyupFSvOClAwbmQ==
 
-bin-ace-editor@^3.1.1:
-  version "3.2.0"
-  resolved "https://registry.npmjs.org/bin-ace-editor/-/bin-ace-editor-3.2.0.tgz#fddd5f3e5109254045f10e278dd81a8bd02ff656"
-  integrity sha512-xmaAOz36GjhyCba/h20tfT1Ln5ki9tCngDolsinfsgAbrPzVl+1zye1Sk6wS9P4OsUFq5XSAU/ASGFD8VqHVeQ==
+bin-editor-next@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/bin-editor-next/-/bin-editor-next-1.0.0.tgz#7ef8c6281c51db271c109ccc32bbff2ba3428e22"
+  integrity sha512-zgnEt+QltCFE6uYXkvsmH0suE1Yp+Rr7GeWQ52OuynWOjSAFjn+el4XzcdVynOlWnsNPp0Rkx3s5z54E5K+G0w==
   dependencies:
     brace "^0.11.1"
 
-bin-ui-next@^0.9.8:
-  version "0.9.8"
-  resolved "https://registry.npmjs.org/bin-ui-next/-/bin-ui-next-0.9.8.tgz#b15990193fcc29cdc35fd53abb22171d667d9a3a"
-  integrity sha512-W7bsFT2g/oqJdiW5ARPL2PF6viSF4CN78HXf8+o+rGsRmj+7Xu4eJjMFGBGU9XWktJUP7zJaarzsBlAQLZLA5A==
+bin-ui-next@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/bin-ui-next/-/bin-ui-next-1.0.0.tgz#5b5946d69c1ea8acaed718259175f3fd0624a85c"
+  integrity sha512-Lk0jm9OE2sqTT7rVbdovhx4aqJSdtFAio4VFDmWIBMHxVPnBb8oqplC0AssbTUR95VXf3FTyTg+S0Ub1KKPh4Q==
   dependencies:
     "@popperjs/core" "^2.9.3"
     async-validator "^4.0.3"
