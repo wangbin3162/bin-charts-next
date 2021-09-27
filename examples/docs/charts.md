@@ -11,7 +11,7 @@
 <template>
   <b-button type="primary" @click="refresh">运行</b-button>
   <div style="width: 100%;height: 358px;border:1px solid #ddd;margin: 20px 0;">
-    <b-split :default-percent="50">
+    <b-split :default-wrap-style="['50%','50%']">
       <template #left>
         <div class="left-container">
           <div id="chart1" style="width: 100%;height: 100%;padding-top:15px;position: relative;">
@@ -89,7 +89,7 @@
   <b-button type="warning" @click="asyncLoad" :loading="loading">延迟载入</b-button>
   <b-button type="danger" @click="rebuild">重绘</b-button>
   <div style="width: 100%;height: 358px;border:1px solid #ddd;margin: 20px 0;">
-    <b-split :default-percent="50">
+    <b-split :default-wrap-style="['50%','50%']">
       <template #left>
         <div class="left-container">
           <div id="chart1" style="width: 100%;height: 100%;padding-top:15px;position: relative;">
