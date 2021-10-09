@@ -9,7 +9,7 @@ const install = function (app, options = {}) {
   app.component(Charts.name, Charts)
 
   if (!options.disabledDoc) {
-    log.printVersion(config.name, config.version, config.homepage, '#13c2c2')
+    log.printVersion(config.name, config.version, config.homepage, '#11afaf')
   }
   return app
 }
