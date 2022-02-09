@@ -23,7 +23,7 @@ var map = {
 		320
 	],
 	"./logs.md": [
-		15858,
+		18658,
 		550
 	]
 };
@@ -263,7 +263,7 @@ module.exports = JSON.parse('{"name":"bin-charts-next","description":"基于echa
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "f0926c8ff6c7dc3b8646"; }
+/******/ 		__webpack_require__.h = function() { return "16364b843c7acc97bd70"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
