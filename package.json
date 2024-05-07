@@ -15,7 +15,7 @@
   "main": "lib/bin-charts-next.common.js",
   "module": "src/components/charts/charts.vue",
   "unpkg": "lib/bin-charts-next.js",
-  "homepage": "https://wangbin3162.gitee.io/bin-charts-next/",
+  "homepage": "https://wangbin3162.github.io/bin-charts-next/",
   "private": false,
   "license": "MIT",
   "scripts": {

@@ -4,6 +4,8 @@ bin-charts-next现已更名为附加后缀，以区分vue版本，原版本更�
 
 最新vue3版本的charts依赖echarts5+，之前版本暂不支持
 
+[文档说明](https://wangbin3162.github.io/bin-charts-next/)
+
 ### 最新版本
 
 [![NPM version](https://img.shields.io/npm/v/bin-charts-next.svg)](https://www.npmjs.com/package/bin-charts-next)
